@@ -1,6 +1,6 @@
 # Hi, I'm Austen!
 
-🏞️ I enjoy contributing to projects that make a positive impact on the earth.
+I enjoy contributing to projects that make a positive impact on the earth. 🏞️ 
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
