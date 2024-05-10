@@ -1,10 +1,6 @@
 # Hi, I'm Austen!
 
-I'm a passionate Software Developer and Environmental Scientist.
-
-## 🌍 About Me
-- 🚀 I enjoy contributing to projects that make a positive impact on the earth.
-- 🏞️ In my free time, I love paddleboarding, hiking, and camping.
+🏞️ I enjoy contributing to projects that make a positive impact on the earth.
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
